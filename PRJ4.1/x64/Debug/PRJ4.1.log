@@ -1,0 +1,5 @@
+﻿  prj4.1.cpp
+D:\source\repos\Student\PRJ4.1\prj4.1.cpp(10,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\repos\Student\PRJ4.1\prj4.1.cpp(18,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\source\repos\Student\PRJ4.1\prj4.1.cpp(29,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PRJ4.1.vcxproj -> D:\source\repos\Student\PRJ4.1\x64\Debug\PRJ4.1.exe
